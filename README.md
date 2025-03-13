@@ -1,4 +1,4 @@
-₊˚ ✧ ‿︵‿୨୧‿︵‿ ✧ ₊˚₊˚ ✧ ‿︵‿୨୧‿︵‿ ✧ ₊˚₊˚ ✧ ‿︵‿୨୧‿︵‿ ✧ ₊˚₊˚ ✧ ‿︵‿୨୧‿︵‿ ✧ ₊˚₊˚ ✧ ‿︵‿୨୧‿︵‿ ✧ ₊˚₊˚ ✧ ‿︵‿୨୧‿︵‿ ✧ ₊˚₊˚ ✧
+
 
 
 
@@ -8,8 +8,3 @@
 I'm a teenager from Brazil currently learning some coding on JS and PY because i have nothing more better to do in my life!
 
 Feel free to edit any of my works, i dont really care about it that much.
-
-
-
-
-₊˚ ✧ ‿︵‿୨୧‿︵‿ ✧ ₊˚₊˚ ✧ ‿︵‿୨୧‿︵‿ ✧ ₊˚₊˚ ✧ ‿︵‿୨୧‿︵‿ ✧ ₊˚₊˚ ✧ ‿︵‿୨୧‿︵‿ ✧ ₊˚₊˚ ✧ ‿︵‿୨୧‿︵‿ ✧ ₊˚₊˚ ✧ ‿︵‿୨୧‿︵‿ ✧ ₊˚₊˚ ✧ 
