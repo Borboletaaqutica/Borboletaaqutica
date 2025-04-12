@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Cass no comando!</h1>
+<h1 align="center">Oi eu sou o Cass</h1>
 
 <p align="center">
   <i>Quase Dev curioso, apaixonado por jogos e tecnologia retrô.</i><br>
