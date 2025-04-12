@@ -8,3 +8,5 @@
 
 
 NERD ALERT!
+
+(Im not a fulltime programmer)
