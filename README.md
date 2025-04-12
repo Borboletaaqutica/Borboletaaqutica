@@ -1,12 +1,1 @@
-₊˚ ✧ ‿︵‿୨୧‿︵‿ ✧ ₊˚₊˚ ✧ 
-
-
-![cat-smile](https://github.com/user-attachments/assets/6388e3b9-e843-4f5b-8d4e-b535a3f15ac2)
-
-
-₊˚ ✧ ‿︵‿୨୧‿︵‿ ✧ ₊˚₊˚ ✧
-
-
-NERD ALERT!
-
-(Im not a fulltime programmer)
+![e2c82120a3111d153a81596f4b3e71f2](https://github.com/user-attachments/assets/a5a89c65-130f-468b-8635-6534e40cfd23)
