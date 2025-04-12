@@ -9,10 +9,10 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- 💻 JavaScript, Python
+- 💻 JavaScript, Python (Eu amo Python)
 - 🎮 Desenvolvimento de jogos simples
 - 🧠 Projetos com IA (usando APIs e automações)
-- 🖥️ Experiência com Linux (Fedora KDE)
+- 🖥️ Experiência com Linux
 - 🌐 Discord Bots e automações em comunidades gamers
 
 ---
