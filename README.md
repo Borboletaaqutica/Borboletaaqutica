@@ -1,7 +1,7 @@
 <h1 align="center">Oi eu sou o Cass</h1>
 
 <p align="center">
-  <i>Quase Dev curioso, apaixonado por jogos e tecnologia retrô.</i><br>
+  <i>Um cara que se diverte fazendo codigo</i><br>
   <i>Trabalhando em projetos totalmente sem sentido algum.</i>
 </p>
 
@@ -10,7 +10,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 - 💻 JavaScript, Python
-- 🎮 Desenvolvimento de jogos com Ursina Engine & Tkinter
+- 🎮 Desenvolvimento de jogos simples
 - 🧠 Projetos com IA (usando APIs e automações)
 - 🖥️ Experiência com Linux (Fedora KDE)
 - 🌐 Discord Bots e automações em comunidades gamers
@@ -36,10 +36,10 @@
 
 ---
 
-- Me chame pra trocar ideia, seja sobre dev, games ou só pra bater um papo
+- Nao sei conversar direito mas se quiser, e tenho medo de pessoas
 
 ---
 
 <p align="center">
-  <i>"A melhor forma de aprender é se divertindo enquanto cria."</i> 🎨✨
+  <i>"Rather dead than cool"</i>
 </p>
