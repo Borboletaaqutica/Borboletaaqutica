@@ -25,7 +25,7 @@
 
 ##  Metas e Aprendizados
 
-- Melhorar performance em de computadores
+- Melhorar performance em computadores
 - Aprimorar habilidades com IA e APIs
 - Aprender mais sobre versionamento e workflows com Git
 
