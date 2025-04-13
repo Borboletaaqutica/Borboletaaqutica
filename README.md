@@ -36,7 +36,7 @@
 
 ---
 
-- Nao sei conversar direito mas se quiser, e tenho medo de pessoas
+- Nao sei conversar direito
 
 ---
 
