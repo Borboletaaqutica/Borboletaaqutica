@@ -1,8 +1,8 @@
-<h1 align="center">Oi eu sou o Cass</h1>
+<h1 align="center">Hallo!</h1>
 
 <p align="center">
-  <i>Um cara que se diverte fazendo codigo</i><br>
-  <i>Trabalhando em projetos totalmente sem sentido algum.</i>
+  <i>Um cara que se diverte fazendo codigo, nao sou um programador 100% do tempo!</i><br>
+  <i>Trabalhando em projetos totalmente sem sentido algum</i>
 </p>
 
 ---
