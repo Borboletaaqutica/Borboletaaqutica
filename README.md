@@ -7,36 +7,34 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 - 💻 JavaScript, Python (Eu amo Python)
 - 🎮 Desenvolvimento de jogos simples
 - 🧠 Projetos com IA (usando APIs e automações)
 - 🖥️ Experiência com Linux
-- 🌐 Discord Bots e automações em comunidades gamers
+- 🌐 Discord Bots e automações
 
 ---
 
-## 💼 Projetos em andamento
+##  Projetos em andamento
 
-🎮 **CassSoft 95™**  
+ **CassSoft 95™**  
 > Um hub de aplicativos com visual retrô inspirado no Windows 95
 
-🕹️ **O Macetador**  
+##  **O Macetador**  
 > Jogo estilo clicker com sistema de conquistas
 
 ---
 
-## 📈 Metas e Aprendizados
+##  Metas e Aprendizados
 
-- Melhorar performance em Linux para jogos
+- Melhorar performance em de computadores
 - Aprimorar habilidades com IA e APIs
-- Desenvolver interfaces gráficas retrô em 2D e 3D
 - Aprender mais sobre versionamento e workflows com Git
 
 ---
 
-- Nao sei conversar direito
 
 ---
 
