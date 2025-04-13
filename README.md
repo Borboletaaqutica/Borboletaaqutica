@@ -1,8 +1,8 @@
 <h1 align="center">Hallo!</h1>
 
 <p align="center">
-  <i>Um cara que se diverte fazendo codigo, nao sou um programador 100% do tempo!</i><br>
-  <i>Alcolatra, fumante, depressivo, maluco.</i>
+  <i>Nerd alert</i><br>
+  <i>I'm not a fulltime programmer</i>
 </p>
 
 ---
@@ -11,9 +11,9 @@
 
 - 💻 JavaScript, Python (Eu amo Python)
 - 🎮 Desenvolvimento de jogos simples
-- 🧠 Projetos com IA (usando APIs e automações)
+- 🧠 Projetos com IA
 - 🖥️ Experiência com Linux
-- 🌐 Discord Bots e automações
+- 🌐 Bots e automações
 
 ---
 
