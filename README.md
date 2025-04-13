@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>Um cara que se diverte fazendo codigo, nao sou um programador 100% do tempo!</i><br>
-  <i>Trabalhando em projetos totalmente sem sentido algum</i>
+  <i>Alcolatra, fumante, depressivo, maluco.</i>
 </p>
 
 ---
@@ -21,10 +21,6 @@
 
  **CassSoft 95™**  
 > Um hub de aplicativos com visual retrô inspirado no Windows 95
-
-##  **O Macetador**  
-> Jogo estilo clicker com sistema de conquistas
-
 ---
 
 ##  Metas e Aprendizados
