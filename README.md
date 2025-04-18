@@ -9,7 +9,7 @@
 
 ## Tecnologias & Ferramentas
 
-- 💻 JavaScript, Python (Eu amo Python)
+- 💻 Python (Eu amo Python)
 - 🎮 Desenvolvimento de jogos simples
 - 🧠 Projetos com IA
 - 🖥️ Experiência com Linux
